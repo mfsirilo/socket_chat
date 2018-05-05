@@ -8,10 +8,6 @@ package com.mballem.app.bean;
 import java.io.Serializable;
 import java.util.*;
 
-/**
- *
- * @author marcos
- */
 public class ChatMessage implements Serializable{
     private String name;
     private String text;
